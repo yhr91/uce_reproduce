@@ -12,7 +12,7 @@ For benchmarks, such as for tabula sapiens, in the `scib.ipynb` the correctly lo
 
 ## File Manifest
 
-| File Name | Explanation |
+| File Name | Description |
 | --------- | ----------- |
 | figures/ | Directory contains code for figure 3 analysis. (see that directory for list of files) |
 |benchmark_uce_saturn_samap.ipynb | Run the labal transfer benchmarking for cross species comparison of UCE vs SATURN vs SAMAP for the 4 new species datasets |
