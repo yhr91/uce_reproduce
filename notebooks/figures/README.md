@@ -2,8 +2,8 @@
 
 | File Name	| Description |
 | --------- | ----------- |
-| SFig7_Meso_Endo_Analysis.ipynb | Notebook to create the developemental lineage analysis figure. |
-| cell_type_map_gpt.py | This script contains a mapping of fine-grained cell type names to a conistent curated list, and an even coarser list. | 
+| SFig7_Meso_Endo_Analysis.ipynb | Notebook to create the developmental lineage analysis figure. |
+| cell_type_map_gpt.py | This script contains a mapping of fine-grained cell type names to a consistent curated list, and an even coarser list. | 
 | fig3a_cell_tree.ipynb | This notebook contains code to create figure 3a. | 
 | fig3b_cl_plot_ridges.ipynb | This notebook contains code to create figure 3b.  | 
 | fig3c_lung_cxg.ipynb | This notebook contains code to create figure 3c.  |
