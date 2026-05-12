@@ -15,14 +15,14 @@ For benchmarks, such as for tabula sapiens, in the `scib.ipynb` the correctly lo
 | File Name | Description |
 | --------- | ----------- |
 | notebooks/figures/ | Directory contains code for figure 3 analysis. (see that directory for list of files) |
-|benchmark_uce_saturn_samap.ipynb | Run the labal transfer benchmarking for cross species comparison of UCE vs SATURN vs SAMAP for the 4 new species datasets |
-| check_cosine_similarity.ipynb | Check consistency of embeddings for UCE models for the same cell run with different seeds, and different cell types, using cosin similarity. Also includes the comparison for scGPT using different Differential Expression settings. |
+|benchmark_uce_saturn_samap.ipynb | Run the label transfer benchmarking for cross species comparison of UCE vs SATURN vs SAMAP for the 4 new species datasets |
+| check_cosine_similarity.ipynb | Check consistency of embeddings for UCE models for the same cell run with different seeds, and different cell types, using cosine similarity. Also includes the comparison for scGPT using different Differential Expression settings. |
 | epo_case_study.ipynb | Analysis for figure 4 for the EPO Norn cell case study |
 | epo_heatmaps.ipynb | Code to make the heatmaps for figure 4 EPO Norn cell case study analysis. |
-| evaluate_geneformer.py | This script is used to create geneformer zero-shot embeddings for a anndata dataset | 
-| evaluate_scgpt.py | This script is used to create scGPT zero-shot embeddings for a anndata dataset |
+| evaluate_geneformer.py | This script is used to create geneformer zero-shot embeddings for an anndata dataset | 
+| evaluate_scgpt.py | This script is used to create scGPT zero-shot embeddings for an anndata dataset |
 | fake_cells.ipynb | This notebook contains the analysis for the results of embedding cells with random gene expression |
-| fly_dendrogram.ipynb | Notebook for creting the fly cell atlas dendrogram |
+| fly_dendrogram.ipynb | Notebook for creating the fly cell atlas dendrogram |
 | fly_embedding_check.ipynb | Notebook for comparing model cell typing with logistic classifier for the fly cell atlas with UCE, versus random embeddings. |
 | fly_enterocytes.ipynb | Notebook contains the analysis code for nearest neighbors of human gut cells and fly gut cells (enterocyte case study) |
 | plot_loss_vs_distance.ipynb | Notebook for creating the evolutionary distance versus loss figure. |
